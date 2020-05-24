@@ -1,10 +1,11 @@
 ---
-title: "Der Johnny-Simulationsrechner"
+title: "Der Bonsai-Simulationsrechner"
 date: 2017-10-17T15:26:15Z
 draft: false
-weight: 30
+weight: 20
 TableofContents: true
 ---
+
 
 ## Bezugsquellen
 
@@ -15,8 +16,6 @@ Johnny wurde von Peter Dauscher entwicklet. Entweder man installiert die Softwar
 
 ## Videos
 
-### Bonsai vs. Johnny
-{{< youtube T3nTMssClxY >}}
 
 ### Speichermodell des Johnny-Modellrechners
 {{< youtube iC_WTwLv7ac >}}
@@ -47,4 +46,7 @@ Johnny wurde von Peter Dauscher entwicklet. Entweder man installiert die Softwar
 
 ### Makrobefehl `DBL` selber schreiben
 {{< youtube NnUtF00jFK0 >}}
+
+### Bonsai vs. Johnny
+{{< youtube T3nTMssClxY >}}
 
