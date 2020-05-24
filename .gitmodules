@@ -1,0 +1,7 @@
+[submodule "techdoc"]
+	path = techdoc
+	url = https://github.com/thingsym/hugo-theme-techdoc.git
+[submodule "public"]
+	path = public
+	url = https://github.com/kuelshammer/kuelshammer.github.io.git
+	branch = master
