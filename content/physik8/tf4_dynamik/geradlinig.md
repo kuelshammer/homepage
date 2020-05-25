@@ -1,7 +1,7 @@
 ---
 title: "Geradlinig-gleichförmige Bewegung"
 draft: false
-weight: 10
+weight: 4
 TableOfContents: true
 ---
 

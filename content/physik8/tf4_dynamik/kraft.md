@@ -21,7 +21,7 @@ TableOfContents: true
 {{< youtube y3LphPiD8x8 >}}
 
 ### Veränderung der Geschwindigkeit
-{{< youtbube Pq1URXnY33M >}}
+{{< youtube Pq1URXnY33M >}}
 
 ### Beschleunigung im Zeit-Geschwindigkeits-Diagramm
 {{< youtube yrsOCSinaXQ >}}
