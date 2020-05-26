@@ -50,14 +50,8 @@ enableMissingTranslationPlaceholders = false
 
     # path name excluded from documentation menu
     menu_exclusion = [
-        "archives",
-        "archive",
-        "blog",
-        "entry",
-        "post",
-        "posts",
-        "sample",
-        "getting-started",
+        "impressum",
+        "youtube",
     ]
 
     # Algolia site search section
@@ -75,10 +69,15 @@ enableMissingTranslationPlaceholders = false
         url = "/"
         weight = 1
 
-    # [[menu.main]]
-    #    name = "Twitter"
-    #    url = "https://twitter.com/thingsym"
-    #    weight = 2
+    [[menu.main]]
+       name = "Youtube"
+       url = "https://www.youtube.com/channel/UCgBKLfp4M_WeaYOFmwfe8_w"
+       weight = 3
+
+    [[menu.main]]
+       name = "Impressum"
+       url = "/impressum"
+       weight = 10
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/

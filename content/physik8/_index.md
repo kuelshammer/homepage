@@ -5,4 +5,4 @@ draft: false
 weight: 208
 ---
 
-Hier findest Du alle zur Physik in der Sek I.
+Hier findest Du alles zur Physik in der Sek I.
