@@ -6,4 +6,5 @@ weight: 10
 TableOfContents: true
 ---
 
-## TODO
+### Was ist eine quadratische Gleichung?
+{{< youtube TMo8TTYUBes >}}

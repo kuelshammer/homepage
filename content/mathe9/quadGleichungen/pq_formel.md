@@ -11,3 +11,6 @@ TableOfContents: true
 
 ## Herleitung der pq-Formel aus der abc-Formel
 {{< youtube 7kx3b4a3hg4 >}}
+
+## Herleitung der pq-Formel mit quadratischer Ergänzung
+{{< youtube PbHsopQhrs0 >}}
