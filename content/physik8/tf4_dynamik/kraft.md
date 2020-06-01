@@ -25,3 +25,13 @@ TableOfContents: true
 
 ### Beschleunigung im Zeit-Geschwindigkeits-Diagramm
 {{< youtube yrsOCSinaXQ >}}
+
+### Übungsaufgabe Grundgleichung der Mechanik
+In diesem Video wird die Musterlösung zu einer Physikübungsaufgabe zur Grundgleichung der Mechanik vorgestellt. Als Beispiel wird der Weltrekord bei der Aufschlaggeschwindigkeit beim Tennis benutzt.
+
+{{< youtube 6fXwQNsM9Ew >}}
+
+### Übungsaufgabe Grundgleichung der Mechanik
+In diesem Video wird die Musterlösung zu einer Physikübungsaufgabe zur Grundgleichung der Mechanik vorgestellt. Als Beispiel wird der Bremsvorgang eines Autos verwendet.
+
+{{< youtube bq3KPYHXOVk >}}

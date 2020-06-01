@@ -1,4 +1,5 @@
-In diesem Video besprechen wir, wann eine Gleichung als quadratische Gleichung bezeichnet wird. Außerdem gehen wir auf die besonderen Sprechweisen und Bezeichnungen bei quadratischen Gleichungen ein.
+In diesem Video erkläre ich, wie man zwei Klammern miteinander multipliziert. Dabei werden wir nicht nur  mit dem Distributivgesetz arbeiten, sondern das Ganze durch eine geeignete Visualisierung verdeutlichen.
+
 ----
 
 Über diesen Kanal:
@@ -12,15 +13,17 @@ Max Külshammer
 
 
 Andere Videos von mir:
+ 
+Distributivgesetz einfach erklärt - https://youtu.be/4cL_UK2QrH8
+Binomische Formeln erklärt - 
+Quadratische Ergänzung - 
 
-Spezialfall ax^2+c=0 lösen https://youtu.be/hTu79lxwQcM
-Spezialfall ax^2+bx=0 lösen https://youtu.be/hTu79lxwQcM
-Satz vom Nullprodukt https://youtu.be/dVy8dSzjNFk
 
 
 Noch mehr Videos:
-Mathe by Daniel Jung - Was heißt quadratisch, quadratische Gleichung, quadratische Funktionen https://youtu.be/HDI1kYOIldI
-Herr Mauch - Rein quadratische Gleichung lösen https://youtu.be/fGNRbf0CBdE
+musstewissen Mathe - Klammern ausmultiplizieren https://youtu.be/C9jwQn4VolY
+Mathe by Daniel Jung - Klammern ausmultiplizieren https://youtu.be/126T9FrwXNc
+ObachtMathe - Klammern ausmultiplizieren https://youtu.be/rej48NLjfug
 
 
 Kanäle:
@@ -30,3 +33,4 @@ Lehrerschmidt https://www.youtube.com/channel/UCy0FxMgGUlRnkxCoNZUNRQQ/videos
 einfach Mathe https://www.youtube.com/channel/UCUzBvaznPnie0C2H6q3b6LA/videos
 mathe-seite https://www.youtube.com/channel/UCbE3PU7rYtS1PkmVmm6CfpA/videos
 ObachtMathe https://www.youtube.com/channel/UCPVQdTsc9O0VM41vAhdlVLw/videos
+MathemaTrick https://www.youtube.com/channel/UCMZgTsrg4GbC7meNeOL86fg/videos
