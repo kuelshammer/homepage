@@ -37,8 +37,8 @@ enableMissingTranslationPlaceholders = false
     # Theme settings section
     # Theme color
     # See color value reference https://developer.mozilla.org/en-US/docs/Web/CSS/color
-    custom_font_color = ""
-    custom_background_color = ""
+    custom_font_color = "#ffffff"
+    custom_background_color = "#0e88cf"
 
     # Documentation Menu section
     # Menu style settings

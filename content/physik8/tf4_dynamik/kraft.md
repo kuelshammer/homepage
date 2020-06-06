@@ -46,3 +46,14 @@ In diesem Video wird erläutert, weshalb es manchmal so ist, dass auf Gegenstän
 In diesem Video besprechen wir, wie man Kräfte addiert. Dabei starten wir bei den beiden Spezialfällen, in denen Kräfte in eine gemeinsame Richtung oder in entgegengesetzte Richtungen wirken. Danach erweitern wie die Kräfteaddition auf beliebige Richtungen und lernen dabei das Kräfteparallelogramm kennen.
 
 {{< youtube wfrJnukKWlw >}}
+
+### Addition von Kräften -- Aufgabe & Lösung
+In diesem Video erarbeiten wir die Lösung zu der Aufgabe aus dem Dorn-Bader Physik S. 147 A1. Dabei geht es um die Addition mehrerer Kräfte beim Seilziehen, welche sich gemeinsam in einem Kräftegleichgewicht ausgleichen sollen.
+
+{{< youtube KFVisJ_uPC4 >}}
+
+
+### Gleichgewichtskräfte -- Aufgabe & Lösung
+In diesem Video geht es um die Aufgabe aus dem Dorn-Bader Physik auf S. 147 A2. In der Aufgabe geht es darum Beispiele zu benennen, bei denen man wegen eines Kräftegleichgewichts keine Bewegung des Körpers beobachtet, man aber trotzdem erkennen kann, dass Kräfte wirken.
+
+{{< youtube JEtGWBLDhYY >}}
