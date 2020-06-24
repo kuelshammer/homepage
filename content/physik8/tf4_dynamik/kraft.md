@@ -57,3 +57,14 @@ In diesem Video erarbeiten wir die Lösung zu der Aufgabe aus dem Dorn-Bader Phy
 In diesem Video geht es um die Aufgabe aus dem Dorn-Bader Physik auf S. 147 A2. In der Aufgabe geht es darum Beispiele zu benennen, bei denen man wegen eines Kräftegleichgewichts keine Bewegung des Körpers beobachtet, man aber trotzdem erkennen kann, dass Kräfte wirken.
 
 {{< youtube JEtGWBLDhYY >}}
+
+### Addition von Kräften -- Aufgaben & Lösung
+In diesem Video wird die Aufgabe A11 aus dem Dorn-Bader Physik von S. 160 vorgestellt und gelöst. Dabei geht es um die Addition von Kräften die in gleicher bzw. entgegengesetzter Richtung auf einen Körper wirken.
+
+{{< youtube Pnz3qsLsSSA >}}
+
+
+### Gleichgewichtskräfte -- Aufgaben & Lösung
+In diesem Video wird die Aufgabe A13 a) aus dem Dorn-Bader Physik von S. 161 gelöst. Dabei geht es darum die Gleichgewichtskräfte, welche beim Schlittenfahren wirken zu erkennen.
+
+{{< youtube Eu2DUm1gEK8 >}}

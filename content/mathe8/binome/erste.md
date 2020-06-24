@@ -2,6 +2,7 @@
 title: "Die Binomischen Formeln"
 draft: false
 weight: 2
+TableOfContents: true
 ---
 
 ## 1. Binomische Formel
@@ -18,3 +19,8 @@ In diesem Video leiten wir die 2. Binomische Formel auf zwei Wegen her und Veran
 In diesem Video wird die 3. Binomische Formel erst hergeleitet und anschließend geometrisch veranschaulicht.
 
 {{< youtube ShuogWQRGus>}}
+
+## Satz von Vieta
+In diesem Video zeige ich dir, was der Satz von Vieta als Spezialfall für das Ausmultiplizieren von Klammern bzw. die binomischen Formeln bedeutet. Dies ist insbesondere beim Lösen von Gleichungen sehr hilfreich. Dafür gibt es ein eigenes Video auf meinem Kanal, welches ich unten verlinke.
+
+{{< youtube ul-f6yMpvXw >}}

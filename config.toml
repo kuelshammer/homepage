@@ -102,12 +102,9 @@ enableMissingTranslationPlaceholders = false
         "title",
         "summary",
         "content",
-        "date",
-        "publishdate",
         "description",
         "permalink",
         "keywords",
-        "lastmod",
     ]
     params = [
         "tags",

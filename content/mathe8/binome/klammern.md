@@ -2,6 +2,7 @@
 title: "Klammern ausmultiplizieren"
 draft: false
 weight: 1
+TableOfContents: true
 ---
 
 ## Wiederholung Distributivgesetz

@@ -13,17 +13,10 @@ Max Külshammer
 
 
 Andere Videos von mir:
- 
-Distributivgesetz einfach erklärt - https://youtu.be/4cL_UK2QrH8
-Binomische Formeln erklärt - 
-Quadratische Ergänzung - 
-
-
-
-Noch mehr Videos:
-musstewissen Mathe - Klammern ausmultiplizieren https://youtu.be/C9jwQn4VolY
-Mathe by Daniel Jung - Klammern ausmultiplizieren https://youtu.be/126T9FrwXNc
-ObachtMathe - Klammern ausmultiplizieren https://youtu.be/rej48NLjfug
+Zusammenwirken von Kräften - https://youtu.be/mdFdCkCWBJQ
+Addition von Kräften - https://youtu.be/wfrJnukKWlw
+Aufgabe Kräfteaddition - https://youtu.be/KFVisJ_uPC4
+Aufgabe Gleichgewichtskräfte - https://youtu.be/JEtGWBLDhYY
 
 
 Kanäle:
