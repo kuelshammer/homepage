@@ -34,4 +34,4 @@ Hier wird erklärt, wie man die Faktorisierung mit Satz von Vieta mithilfe des A
 ### Lösungen aus der Summe bestimmen
 Hier wird erklärt, wie man die Faktorisierung mit Satz von Vieta mithilfe des Linearglieds, welches der Summe der gesuchten Zahlen entspricht, systematisch finden kann.
 
-{{< youtube jzBkkzr0mdk >}}
+{{< youtube goTOlTUcCuw >}}
