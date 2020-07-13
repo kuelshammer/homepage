@@ -2,7 +2,6 @@
 title: "Eingangsdiagnose 11"
 draft: false
 weight: 111
-TableOfContents: true
 ---
 
 ## Liebe 10. Klassen!

@@ -4,6 +4,20 @@ draft: false
 weight: 113
 TableOfContents: true
 ---
+## Geraden
+- Geradengleichungen
+- Graphen von Geraden
+
+
+## Lineare Gleichungen
+- Gleichungen aufstellen
+- Äquivalenzumformungen
+- Lösungsmengen
+
+## Lineare Ungleichungen
+- Gleichungen aufstellen
+- Äquivalenzumformungen
+- Lösungsmengen 
 
 ## Binomische Formeln
 - 1. Binomische Formel

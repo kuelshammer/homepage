@@ -1,21 +1,13 @@
 ---
-title: "Woche 2"
+title: "Lösung Eingangstest 11"
 draft: false
 weight: 112
-TableOfContents: true
 ---
 
-## Geraden
-- Geradengleichungen
-- Graphen von Geraden
+## Liebe 10. Klassen!
+
+Hier die Lösungen zum Eingangstest.
+
+{{< button icon="fas fa-download" url="http://maxkuelshammer.de/vorkursLKM/Eingangstest_OSt_Lsg.pdf">}}Download{{< /button >}}
 
 
-## Lineare Gleichungen
-- Gleichungen aufstellen
-- Äquivalenzumformungen
-- Lösungsmengen
-
-## Lineare Ungleichungen
-- Gleichungen aufstellen
-- Äquivalenzumformungen
-- Lösungsmengen
