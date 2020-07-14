@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.maxkuelshammer.de"
 
 languageCode = "de-DE"
 title = "Max Külshammer"
@@ -57,7 +57,7 @@ enableMissingTranslationPlaceholders = false
     # Algolia site search section
     # See https://www.algolia.com/doc/
     algolia_search_enable = true
-    algolia_indexName = "kuelshammer.github.io"
+    algolia_indexName = "maxkuelshammer.de"
     algolia_appId = "UJ2JR2P9BE"
     algolia_apiKey = "b00c64061f115a0dfea17516f777f5a9" # Search-Only API Key
 

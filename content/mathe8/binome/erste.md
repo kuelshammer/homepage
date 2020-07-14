@@ -24,3 +24,8 @@ In diesem Video wird die 3. Binomische Formel erst hergeleitet und anschließend
 In diesem Video zeige ich dir, was der Satz von Vieta als Spezialfall für das Ausmultiplizieren von Klammern bzw. die binomischen Formeln bedeutet. Dies ist insbesondere beim Lösen von Gleichungen sehr hilfreich. Dafür gibt es ein eigenes Video auf meinem Kanal, welches ich unten verlinke.
 
 {{< youtube ul-f6yMpvXw >}}
+
+## Verallgemeinerte 3. Binomische Formel
+In diesem Video leite ich eine verallgemeinerte binomische Formel her, die es ermöglicht Differenzen von Potenzen zu faktorisieren.
+
+{{< youtube gTf-lq_JpQ8 >}}

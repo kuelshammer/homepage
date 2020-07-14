@@ -14,5 +14,7 @@ images:
 ##### Max Külshammer
 
 # Suche
-
+![Algolia search logo](algolia.png)
 {{< search >}}{{< /search >}}
+
+
